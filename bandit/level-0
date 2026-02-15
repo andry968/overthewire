@@ -9,7 +9,8 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 
 Then i type 'ls' and found readme, so i type:
 ```bash
-cat readme```
+cat readme
+```
 
 ## Password
 ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
