@@ -14,7 +14,7 @@ After connected, the first thing i do is type
 ```bash
 ls
 ```
-It show directory inhere so i change the directory and list
+It show directory inhere so i change the directory and list it
 ```bash
 cd inhere
 ls
